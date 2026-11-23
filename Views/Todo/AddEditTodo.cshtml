@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Add/Edit Todo";
+}
+
+@model TodoMVC_CSharp.Models.Todo
+
+<div>class="text-center">
+    <hi>Add/Edit Todo</hi>
+</div>
+
+<form asp-action="" asp-Controller="todo">
+    <label class="mt-4">Id</label>
+    <input asp-for="Id" type="text" class="form-control" placeholder="Id will be auto generated" readonly />
+
+    <label class="mt-4">Title</label>
+    <input  asp-for="Title" type="text" class="form-control" placeholder="Enter title" />
+
+    <label class="mt-4">Description</label>
+    <input asp-for="Description" type="text" class="form-control" placeholder="Enter Description" />
+
+    <button type="submit" class="btn btn-primary mt-4">Save</button>
+</form>

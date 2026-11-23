@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\views\\todo\\addedittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:views\\todo\\addedittodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\views\\todo\\todos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:views\\todo\\todos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\todomvc_csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:todomvc_csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|c:\\users\\shukurah\\source\\repos\\todomvc_csharp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2BA72E3-9859-FDB1-3CD6-17053BD25B4F}|TodoMVC_CSharp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T15:02:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T14:57:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T14:51:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75c83ab3-5264-45e8-ad32-5c8a41ad477d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "Data\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T14:31:51.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditTodo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Todo\\AddEditTodo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Todo\\AddEditTodo.cshtml",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Todo\\AddEditTodo.cshtml",
+              "RelativeToolTip": "Views\\Todo\\AddEditTodo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T09:32:59.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T09:18:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Todo\\Todos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Todo\\Todos.cshtml",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Views\\Todo\\Todos.cshtml",
+              "RelativeToolTip": "Views\\Todo\\Todos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T09:08:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T08:53:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoMVC_CSharp.csproj",
+              "DocumentMoniker": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\TodoMVC_CSharp.csproj",
+              "RelativeDocumentMoniker": "TodoMVC_CSharp.csproj",
+              "ToolTip": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\TodoMVC_CSharp.csproj",
+              "RelativeToolTip": "TodoMVC_CSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T08:20:00.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

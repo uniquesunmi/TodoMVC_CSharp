@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGbKUh+vWh8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shukurah\\source\\repos\\TodoMVC_CSharp\\TodoMVC_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shukurah\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.15\\microsoft.entityframeworkcore.10.0.15.nupkg.sha512",
+    "C:\\Users\\Shukurah\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.15\\microsoft.entityframeworkcore.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\Shukurah\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.15\\microsoft.entityframeworkcore.analyzers.10.0.15.nupkg.sha512",
+    "C:\\Users\\Shukurah\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.15\\microsoft.entityframeworkcore.inmemory.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
