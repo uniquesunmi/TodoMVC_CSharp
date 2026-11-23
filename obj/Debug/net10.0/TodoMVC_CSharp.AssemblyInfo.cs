@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoMVC_CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e5153a8de3541afb60ae32c9cd274303d5f350")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoMVC_CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoMVC_CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
